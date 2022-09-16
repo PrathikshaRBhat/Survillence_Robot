@@ -1,0 +1,5 @@
+The module consists of central Microcontroller with a IR sensor, Bluetooth module and ESP 8266 along with camera.
+L298N motor driver is used to drive motors in forward, backward, right and left directions. 
+It ensures the proper working voltage for DC motor and also protects the microcontroller from being harmed due to the back EMF generated in the motor. 
+The output pin of IR sensors are connected to the Arduino Mega 2560. Whenever obstacle is detected, microcontroller initiates and sends the corresponding warning messages through ESP 8266 to corresponding mail. 
+The robot is controlled through the inbuilt Bluetooth module which is connected to the smart phone. Whenever a warning message is received, corresponding security measures can be taken by controlling the robot and monitoring the border from wireless camera through which border scenario can be continuously monitored in control station.

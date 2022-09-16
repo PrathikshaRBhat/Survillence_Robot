@@ -1,0 +1,5 @@
+Border patrol system have recently achieved interest to address the concerns about national security and it consists of security checkpoints and border troops.
+Under the conventional border patrol system, even modest-sized areas require large human resources if manual patrolling is considered alone. 
+In order to monitor the border in real-time with accuracy and minimize the need for human support, multiple surveillance technologies are required.
+To address the challenges still faced by the existing surveillance techniques, a border security robot is introduced which can accurately detect the border intrusion with minimum human involvements.
+Border security robot utilizes the IR sensors for obstacle detection and Bluetooth module to operate it. Also a surveillance camera is used to continuously monitor the border.
